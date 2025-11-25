@@ -38,7 +38,6 @@ medusa -h 192.168.15.87 -U usuarios.txt -P senhas.txt -M ftp -t 6
 5- Validando usuario e senha localizado no FTP.
 ftp 192.168.15.87
 
-Cenário 2 (DVWA)
 6- Localizando parâmetros de acesso DVWA
 Acesso site e localizando parâmetros via inspeção WEB
 
@@ -55,7 +54,6 @@ medusa -h 192.168.15.87 -U usuariosdvwa.txt -P senhasdvwa.txt -M http
 9- Validando credenciais localizadas
 Realizando o login no formulado da pagina DVWA.
 
-Cenário 3 (SMB)
 10- Enumeração de usuários.
 enum4linux -a 192.168.15.87 | tee enu4m_output.txt
 
