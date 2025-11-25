@@ -1,23 +1,17 @@
 # ciber-santander-brute-force-
-Projeto de Cibersegurança:  Ataques de Força Bruta
-echo "# ciber-santander-brute-force-" >> README.md 
-cibersecurity_dio_medusa
- Desafio de brute force
+Projeto de Cibersegurança: 
 
-Projeto de Cibersegurança: Simulação de Ataques de Força Bruta
+   Ataques de Força Bruta
 
 Compreender a vulnerabilidade de diferentes serviços (FTP, Web, SMB) a ataques de força bruta.
-Dominar a utilização do Kali Linux e da ferramenta Medusa para testes de penetração.
- Tecnologias e Ferramentas Utilizadas
-Categoria	Ferramenta/Tecnologia	Propósito
-Sistema Operacional	Kali Linux	Máquina atacante,Alvo Vulnerável	Metasploitable 2.
-Alvo Web	DVWA (Damn Vulnerable Web Application).
+Utilização do Kali Linux e da ferramenta Medusa para testes de penetração.
 
+Sistema Operacional	Kali Linux	Máquina atacante, Alvo Vulnerável	Metasploitable 2.
 Ataque	Medusa	Ferramenta de força bruta para serviços de rede.
 Reconhecimento	Nmap	Escaneamento de portas e serviços.
 
 Configuração do Ambiente
-O ambiente foi configurado com duas Máquinas Virtuais (VMs) no VirtualBox.
+O ambiente foi configurado com duas Máquinas Virtuais no VirtualBox.
 
 Kali Linux	192.168.15.80	
 Metasploitable 2	192.168.15.87
